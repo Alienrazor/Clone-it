@@ -13,7 +13,9 @@ pip install requests
 
 pip install mechanize
 
-pip install bs4 futures
+pip install bs4
+
+pip install futures
 
 git clone https://github.com/Alienrazor/clone-it
 
